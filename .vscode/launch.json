@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DiscoveryServerApplication",
+      "request": "launch",
+      "mainClass": "com.appsdeveloperblog.estore.discoveryserver.DiscoveryServerApplication",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "Spring Boot-ProductsServiceApplication<ProductsService>",
       "request": "launch",
       "cwd": "${workspaceFolder}",
