@@ -1,2 +1,4 @@
 AxonServer/*
 !AxonServer/config/
+docker-data/*
+!docker-data/config/
